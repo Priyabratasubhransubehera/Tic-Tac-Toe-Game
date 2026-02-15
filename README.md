@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe Game (Python)
+# 🎮 Tic Tac Toe Game 
 
 A GUI-based Tic Tac Toe game developed using Python and the Tkinter library. This application allows two players to play interactively on the same system with a simple and user-friendly interface. The game automatically checks for winning conditions across rows, columns, and diagonals, and also detects tie situations. It is designed as a beginner-friendly project to understand Python GUI development, event handling, and game logic implementation.
 
